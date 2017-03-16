@@ -1,0 +1,20 @@
+{
+  "name": "react_poc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "httpster -p 3000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SiddAjmera/ReactPOC.git"
+  },
+  "author": "Siddharth Ajmera",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SiddAjmera/ReactPOC/issues"
+  },
+  "homepage": "https://github.com/SiddAjmera/ReactPOC#readme"
+}
